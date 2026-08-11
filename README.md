@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Eugene 👋</h1>
+<h1 align="center">Hi, I'm SIyabonga Eugene 👋</h1>
 <h3 align="center">Data Analyst Intern | Final-Year BICT Student | Turning SA data into decisions</h3>
 
 <p align="center">
-📍 Gauteng, South Africa &nbsp;|&nbsp;
+📍 South Africa &nbsp;|&nbsp;
 🎓 Final-year BICT @ University of Mpumalanga &nbsp;|&nbsp;
 🏆 MAISH 2025 Hackathon Winner · Dirisa National Finalist · CHPC National Finalist 2026
 </p>
@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/eugene-ndhlovu02">LinkedIn</a> ·
 <a href="mailto:siyaeugenendhlovu@gmail.com">Email</a> ·
-Available November 30 · Open to remote, hybrid, or on-site in Gauteng
+
 </p>
 
 ---
