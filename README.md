@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:14B8A6&height=200&section=header&text=Eugene%20Ndhlovu&fontSize=50&fontColor=FAFAF8&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20SA%20Data%20Into%20Decisions&descAlignY=58&descSize=18&descColor=14B8A6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:14B8A6&height=200&section=header&text=Siyabonga%20Eugene%20Ndhlovu&fontSize=50&fontColor=FAFAF8&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20SA%20Data%20Into%20Decisions&descAlignY=58&descSize=18&descColor=14B8A6" width="100%"/>
 
 <br>
 
@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyaeugenendhlovu@gmail.com)
 [![Location](https://img.shields.io/badge/Gauteng,_South_Africa-0A1628?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-🏆 MAISH 2025 Hackathon Winner &nbsp;·&nbsp; Dirisa National Finalist &nbsp;·&nbsp; CHPC National Finalist 2026 &nbsp;·&nbsp; Available Nov 30
+🏆 MAISH 2025 Hackathon Winner &nbsp;·&nbsp; Dirisa National Finalist &nbsp;·&nbsp; CHPC National Finalist 2026 &nbsp;·&nbsp;
 
 </div>
 
@@ -101,7 +101,7 @@ Automated pipeline ingesting real-time weather data for SA cities via the Open-M
 
 **Data Analytics:** A/B Testing · Churn + Revenue-at-Risk · Load Shedding vs Crime
 **Data Engineering:** Weather ETL/ELT Pipeline · BlockTrack *(capstone, in progress)*
-**Applied ML / NLP:** Text-to-SQL Agent
+**Applied ML / NLP:** Text-to-SQL Agent · Moodflix
 
 [![All Repos](https://img.shields.io/badge/Browse_All_Repositories-0A1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaetc?tab=repositories)
 
