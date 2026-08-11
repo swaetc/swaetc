@@ -1,133 +1,157 @@
-<h1 align="center">Hi, I'm SIyabonga Eugene 👋</h1>
-<h3 align="center">Data Analyst Intern | Final-Year BICT Student | Turning SA data into decisions</h3>
+<div align="center">
 
-<p align="center">
-📍 South Africa &nbsp;|&nbsp;
-🎓 Final-year BICT @ University of Mpumalanga &nbsp;|&nbsp;
-🏆 MAISH 2025 Hackathon Winner · Dirisa National Finalist · CHPC National Finalist 2026
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:14B8A6&height=200&section=header&text=Eugene%20Ndhlovu&fontSize=50&fontColor=FAFAF8&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20SA%20Data%20Into%20Decisions&descAlignY=58&descSize=18&descColor=14B8A6" width="100%"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/eugene-ndhlovu02">LinkedIn</a> ·
-<a href="mailto:siyaeugenendhlovu@gmail.com">Email</a> ·
+<br>
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-ndhlovu02)
+[![Email](https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyaeugenendhlovu@gmail.com)
+[![Location](https://img.shields.io/badge/Gauteng,_South_Africa-0A1628?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
----
+🏆 MAISH 2025 Hackathon Winner &nbsp;·&nbsp; Dirisa National Finalist &nbsp;·&nbsp; CHPC National Finalist 2026 &nbsp;·&nbsp; Available Nov 30
 
-## What I do
+</div>
 
-I turn raw, often messy South African data into dashboards, statistical tests, and
-predictive models that a non-technical stakeholder can actually act on. Every
-project below starts from a real, verifiable pattern — a news headline, a public
-dataset, a documented public debate — not an invented scenario, and every dataset
-is either genuinely real (South African government sources) or clearly disclosed
-as a realistic simulation where real data isn't publicly available.
+<br>
 
----
+## What I Do
+
+Final-year BICT student turning raw, often messy South African data into dashboards, statistical tests, and predictive models that a non-technical stakeholder can actually act on. Every project below starts from a real, verifiable pattern, never an invented scenario, and every dataset is either genuinely real or clearly disclosed as a simulation where real data isn't publicly available.
+
+<br>
 
 ## 🌟 Featured Projects
 
-### 📦 A/B Test Analysis — SA E-Commerce Free Delivery Threshold
-**[Live Repo →](https://github.com/swaetc/ab-test-analysis)** · `Python` `pandas` `SciPy` `Matplotlib`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Tested whether lowering a free-delivery threshold from R500 to R400 actually
-increases average order value enough to justify it — designed with a
-**pre-registered power analysis before any data was generated** (MDE R30, 80%
-power, 310/group), not tuned after the fact. Result: a statistically significant
-lift (p = 0.022) that sits *below* the business's own R30 threshold — an honest,
-nuanced finding reported as-is rather than rounded up to a clean "it works."
+### 📦 A/B Test Analysis
+**SA E-Commerce Free Delivery Threshold**
 
-### 📉 SA Telecom Churn Prediction with Revenue-at-Risk Ranking
-**[Live Repo →](https://github.com/swaetc/churn-revenue-risk)** · `Python` `XGBoost` `SHAP` `scikit-learn`
+Tested whether lowering a free-delivery threshold from R500 to R400 increases average order value. Pre-registered power analysis before any data existed (MDE R30, 80% power, n=310/group).
 
-Modeled churn on a Telco dataset rescaled to realistic SA postpaid ARPU bands
-(R250–R900/month), comparing Logistic Regression against XGBoost (+12% F1).
-Goes beyond a bare prediction list with a **revenue-at-risk ranking**
-(churn probability × monthly value) that tells a retention team exactly who to
-call first, and SHAP explainability that surfaces contract type and tenure as
-the two biggest churn drivers — in plain language, not model jargon.
+**Result:** significant lift (p=0.022) that sits below the R30 business threshold, an honest, nuanced finding reported as-is.
 
-### ⚡ Does Load Shedding Actually Drive Crime in South Africa?
-`Python` `pandas` `statsmodels` — *(in progress)*
+`Python` `pandas` `SciPy` `Matplotlib`
 
-A replication study testing a real, publicly-debated claim: does load-shedding
-severity correlate with crime, and if so, which categories specifically? Combines
-two real government datasets — SAPS crime statistics and Eskom's own load-shedding
-severity data — with a time-trend-controlled regression to avoid the naive
-"two lines went up together" trap, and an explicit, upfront limitations section
-on what quarterly public data can and can't prove.
+[![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/ab-test-analysis)
 
-### 🗣️ Text-to-SQL Agent — Natural Language Database Interface
-**[Live Repo →](https://github.com/swaetc/text-to-sql-agent)** · `FastAPI` `Streamlit` `SQLite` `Groq/Gemini API`
+</td>
+<td width="50%" valign="top">
 
-An end-to-end NL-to-SQL agent — plain English in, validated read-only SQL out.
-Groq as primary LLM with Gemini as an automatic fallback, both free-tier, plus a
-`sqlglot`-based validator that blocks malformed queries before they ever reach
-the database. Evaluated against a hand-written test set covering lookups,
-aggregations, joins, ranking, time-based queries, and deliberately unanswerable
-questions — not just the easy cases.
+### 📉 Churn Prediction
+**Revenue at Risk Ranking**
+
+Modeled churn on a Telco dataset rescaled to SA postpaid ARPU bands (R250-R900/month). Compared Logistic Regression against XGBoost.
+
+**Result:** XGBoost +12% F1. Built a revenue-at-risk ranking (probability × value) so retention teams know who to call first, with SHAP explaining why.
+
+`Python` `XGBoost` `SHAP` `scikit-learn`
+
+[![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/churn-revenue-risk)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Load Shedding vs Crime
+**SA Government Data Replication Study**
+
+*Status: In Progress*
+
+Testing a real, publicly debated claim: does load-shedding severity correlate with crime? Combines SAPS crime statistics with Eskom's own load-shedding data using a time-trend-controlled regression.
+
+`Python` `pandas` `statsmodels`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Text-to-SQL Agent
+**Natural Language Database Interface**
+
+Plain English in, validated read-only SQL out. Groq as primary LLM with Gemini as automatic fallback, both free-tier, plus a sqlglot validator blocking malformed queries.
+
+`FastAPI` `Streamlit` `SQLite` `Groq/Gemini`
+
+[![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/text-to-sql-agent)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 🌦️ SA Weather Analytics ETL/ELT Pipeline
-**[Live Repo →](https://github.com/swaetc/TheWeatherPipeline)** · `PostgreSQL` `Apache Airflow` `Open-Meteo API`
 
-Automated pipeline ingesting real-time weather data for South African cities via
-the Open-Meteo API into a PostgreSQL warehouse, orchestrated with Airflow DAGs —
-data engineering fundamentals beyond notebook-only work. Includes a documented
-fix for a production-grade SQLAlchemy version conflict between Airflow and the
-pipeline's own dependencies.
+Automated pipeline ingesting real-time weather data for SA cities via the Open-Meteo API into a PostgreSQL warehouse, orchestrated with Airflow DAGs.
 
----
+`PostgreSQL` `Apache Airflow` `Open-Meteo API`
 
-## 🧱 By Track
+[![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/TheWeatherPipeline)
 
-**Analytics & Experimentation:** A/B Testing · Churn + Revenue-at-Risk · Load Shedding vs Crime
-**Data Engineering:** Weather ETL/ELT Pipeline (Airflow, PostgreSQL)
-**Applied ML / NLP:** Text-to-SQL Agent · SHAP-based churn explainability
+</div>
 
----
+<br>
 
 ## 📁 See More Projects
 
-The featured projects above are my strongest, most polished work — but I keep
-building. Full project index below, organized by discipline.
+<div align="center">
 
-### Data Analytics & Experimentation
-- **[A/B Test Analysis — Free Delivery Threshold](https://github.com/swaetc/ab-test-analysis)** — hypothesis-driven experiment design, power analysis, t-test
-- **[SA Telecom Churn + Revenue-at-Risk](https://github.com/swaetc/churn-revenue-risk)** — XGBoost, SHAP, business-prioritized retention ranking
-- **Does Load Shedding Drive Crime in SA?** *(in progress)* — SAPS + Eskom government data, time-trend-controlled regression
+**Data Analytics:** A/B Testing · Churn + Revenue-at-Risk · Load Shedding vs Crime
+**Data Engineering:** Weather ETL/ELT Pipeline · BlockTrack *(capstone, in progress)*
+**Applied ML / NLP:** Text-to-SQL Agent
 
-### Data Engineering
-- **[SA Weather Analytics ETL/ELT Pipeline](https://github.com/swaetc/TheWeatherPipeline)** — Airflow DAGs, PostgreSQL, Open-Meteo API
-- **BlockTrack (Project300)** *(capstone, in progress)* — 13-table PostgreSQL schema, Isolation Forest anomaly detection on real Cape Town tender data, Hyperledger Fabric backend
+[![All Repos](https://img.shields.io/badge/Browse_All_Repositories-0A1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaetc?tab=repositories)
 
-### Applied ML / NLP / Software Engineering
-- **[Text-to-SQL Agent](https://github.com/swaetc/text-to-sql-agent)** — FastAPI + Streamlit, Groq/Gemini fallback, sqlglot query validation
+</div>
 
-📌 **[Browse all repos →](https://github.com/swaetc?tab=repositories)**
-
----
+<br>
 
 ## 🛠️ Tech Stack
 
-**Primary:** Python (pandas, NumPy, scikit-learn, SHAP, VADER, Matplotlib, Seaborn) · SQL · PostgreSQL · Power BI · Git
-**Familiar:** R (basic) · Plotly · Streamlit · MySQL · SQLite · Linux CLI · REST APIs · Excel · Apache Airflow (basic) · Node.js
-**Currently learning:** FastAPI (model deployment) · MLflow · Docker · Groq / Gemini API
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,linux,r,nodejs&theme=dark" />
+
+<br><br>
+
+**Analysis:** Pandas · NumPy · SHAP · VADER &nbsp;|&nbsp; **Visualization:** Power BI · Matplotlib · Seaborn · Plotly
+**Statistics:** Hypothesis Testing · A/B Testing · Regression &nbsp;|&nbsp; **ML:** scikit-learn · XGBoost
+**Learning:** FastAPI · MLflow · Docker · Groq/Gemini API
+
+</div>
+
+<br>
 
 ## 🏆 Competitions & Recognition
 
-- 🥇 **Winner — MAISH 2025 AI Hackathon** (72-hour build, 10 teams) — hybrid crop and animal disease detection solution
-- 🏅 **National Finalist — Dirisa Student Competition 2025** — 1 of 4 selected from a 6-person university team to represent at the National Hackathon in Cape Town, working with vehicle telemetry data
-- 🎓 **Coding Mentor — Dirisa Coding School** (2026–present) — mentoring high school learners in foundational programming
+| | |
+|---|---|
+| 🥇 **Winner, MAISH 2025 AI Hackathon** | 72-hour build, 10 teams, hybrid crop/animal disease detection |
+| 🏅 **National Finalist, Dirisa Student Competition 2025** | 1 of 4 selected from a 6-person university team for the National Hackathon |
+| 🎓 **Coding Mentor, Dirisa Coding School** | 2026-present, mentoring high school learners in foundational programming |
 
----
+<br>
 
+## 📊 GitHub Activity
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swaetc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1628&title_color=14B8A6&icon_color=14B8A6" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaetc&theme=tokyonight&hide_border=true&background=0A1628&ring=14B8A6&fire=14B8A6" height="165"/>
+</div>
 
----
+<br>
 
-## 📫 Get in touch
+<div align="center">
 
-📧 siyaeugenendhlovu@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/eugene-ndhlovu02) · 📍South Africa
+### 📫 Let's Talk Data
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-ndhlovu02)
+[![Email](https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyaeugenendhlovu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swaetc)
+
+<sub>© 2026 Eugene Ndhlovu</sub>
+
+</div>
