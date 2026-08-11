@@ -49,7 +49,7 @@ Modeled churn on a Telco dataset rescaled to SA postpaid ARPU bands (R250-R900/m
 
 `Python` `XGBoost` `SHAP` `scikit-learn`
 
-[![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/churn-revenue-risk)
+[![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/ab-test-delivery-threshold)
 
 </td>
 </tr>
