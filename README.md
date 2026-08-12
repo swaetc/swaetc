@@ -73,9 +73,10 @@ Testing a real, publicly debated claim: does load-shedding severity correlate wi
 
 Plain English in, validated read-only SQL out. Groq as primary LLM with Gemini as automatic fallback, both free-tier, plus a sqlglot validator blocking malformed queries.
 
-`FastAPI` `Streamlit` `SQLite` `Groq/Gemini`
+`FastAPI` `React` `SQLite` `Groq/Gemini`
 
 [![Repo](https://img.shields.io/badge/View_Repo-14B8A6?style=flat-square&logo=github&logoColor=white)](https://github.com/swaetc/text-to-sql-agent)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A1628?style=flat-square&logo=netlify&logoColor=14B8A6)](https://text2sqlgo.netlify.app/)
 
 </td>
 </tr>
