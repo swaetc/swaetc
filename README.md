@@ -16,7 +16,7 @@
 
 ## What I Do
 
-Final-year BICT student turning raw, often messy South African data into dashboards, statistical tests, and predictive models that a non-technical stakeholder can actually act on. Every project below starts from a real, verifiable pattern, never an invented scenario, and every dataset is either genuinely real or clearly disclosed as a simulation where real data isn't publicly available.
+Final year BICT student focused on data analytics, turning messy South African data into clear insights through statistical analysis, dashboards, and predictive modelling. My projects use real world datasets to investigate measurable patterns, answer practical questions, and translate findings into insights that non technical stakeholders can act on. I prioritise analytical rigour and transparency, clearly distinguishing real world findings from simulations where public data isn't available.
 
 <br>
 
