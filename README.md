@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:14B8A6&height=200&section=header&text=Siyabonga%20Eugene%20Ndhlovu&fontSize=50&fontColor=FAFAF8&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20SA%20Data%20Into%20Decisions&descAlignY=58&descSize=18&descColor=14B8A6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,100:14B8A6&height=200&section=header&text=Siyabonga%20Eugene%20Ndhlovu&fontSize=50&fontColor=FAFAF8&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst/Engineeri%20%7C%20Turning%20SA%20Data%20Into%20Decisions&descAlignY=58&descSize=18&descColor=14B8A6" width="100%"/>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 ## What I Do
 
-Final year BICT student focused on data analytics, turning messy South African data into clear insights through statistical analysis, dashboards, and predictive modelling. My projects use real world datasets to investigate measurable patterns, answer practical questions, and translate findings into insights that non technical stakeholders can act on. I prioritise analytical rigour and transparency, clearly distinguishing real world findings from simulations where public data isn't available.
+Final year BICT student focused on data analytics with a growing pull toward data engineering, turning messy South African data into clear insights through statistical analysis, dashboards, and predictive modelling, and increasingly into the pipelines that get that data ready in the first place. My projects use real world datasets to investigate measurable patterns, answer practical questions, and translate findings into insights that non technical stakeholders can act on. I prioritise analytical rigour and transparency, clearly distinguishing real world findings from simulations where public data isn't available.
 
 <br>
 
