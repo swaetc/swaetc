@@ -16,7 +16,7 @@
 
 ## What I Do
 
-Final year BICT student focused on data analytics with a growing pull toward data engineering, turning messy South African data into clear insights through statistical analysis, dashboards, and predictive modelling, and increasingly into the pipelines that get that data ready in the first place. My projects use real world datasets to investigate measurable patterns, answer practical questions, and translate findings into insights that non technical stakeholders can act on. I prioritise analytical rigour and transparency, clearly distinguishing real world findings from simulations where public data isn't available.
+BICT student focused on data analytics with a growing pull toward data engineering, turning messy South African data into clear insights through statistical analysis, dashboards, and predictive modelling, and increasingly into the pipelines that get that data ready in the first place. My projects use real world datasets to investigate measurable patterns, answer practical questions, and translate findings into insights that non technical stakeholders can act on. I prioritise analytical rigour and transparency, clearly distinguishing real world findings from simulations where public data isn't available.
 
 <br>
 
